@@ -14,7 +14,7 @@
 
 <!-- ═══════════════ ANIMATED TYPING EFFECT ═══════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Turning+caffeine+into+code+since+2020;%F0%9F%8E%AF+Clean+code+%7C+Smart+solutions+%7C+Real+impact;%F0%9F%9A%80+Let's+build+something+extraordinary+together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Turning+caffeine+into+code+since+2024;%F0%9F%8E%AF+Clean+code+%7C+Smart+solutions+%7C+Real+impact;%F0%9F%9A%80+Let's+build+something+extraordinary+together" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -185,7 +185,7 @@
   <img src="https://img.shields.io/badge/GitHub-Helloguys3324-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="mailto:your.email@example.com">
+<a href="mailto:veaceslav.coltuc@isa.utm.md">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a>
 &nbsp;
