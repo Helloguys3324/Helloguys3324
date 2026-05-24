@@ -34,6 +34,15 @@
   <img src="https://img.shields.io/badge/Living-Chisinau%2C%20Moldova-4ade80?style=for-the-badge&labelColor=1a1b27" alt="Location"/>
 </p>
 
+<!-- ═══════════════ GITHUB SNAKE CONTRIBUTIONS ═══════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Helloguys3324/Helloguys3324/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Helloguys3324/Helloguys3324/output/github-snake.svg" />
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Helloguys3324/Helloguys3324/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
 </div>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
@@ -164,20 +173,6 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Helloguys3324&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Coding%20Activity%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
-<!-- ═══════════════ DIVIDER ═══════════════ -->
-<img src="assets/divider.svg" width="100%"/>
-
-<!-- ═══════════════ SNAKE ANIMATION ═══════════════ -->
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Helloguys3324/Helloguys3324/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Helloguys3324/Helloguys3324/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Helloguys3324/Helloguys3324/output/github-snake.svg" width="100%"/>
-  </picture>
 </div>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
