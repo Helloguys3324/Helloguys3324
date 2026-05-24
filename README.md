@@ -67,10 +67,8 @@
 🧑‍💻 Name:       Veaceslav Coltuc
 🎓 Education:  Software Engineering @ UTM
 📍 Location:   Chisinau, Moldova 🇲🇩
-🏆 Achievement: 3rd Place — Cloudflight Coding Contest (CCC)
-🔭 Working on: Automation & Intelligent Web Apps
+🔭 Working on: Automation
 🌱 Learning:   Systems Programming & AI Infrastructure
-⚡ Fun fact:   I build routing engines for my city for fun
 ```
 
 <br clear="right"/>
@@ -103,7 +101,7 @@
 
 ### ⚙️ DevOps & Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash&perline=3&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash&perline=3&theme=dark" alt="Tools"/>
 
 </td>
 </tr>
@@ -112,7 +110,7 @@
 
 ### 🗄️ Databases & Infrastructure
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite&perline=4&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=4&theme=dark" alt="Databases"/>
 
 </td>
 </tr>
